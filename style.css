@@ -125,7 +125,7 @@ input:checked + .slider::before {
 main {
   padding: 20px;
   position: absolute;
-  top: 25%;
+  top: 35%;
   width: 100%;
 }
 .socials-stats,
